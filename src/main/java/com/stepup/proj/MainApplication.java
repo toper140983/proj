@@ -5,6 +5,6 @@ public class MainApplication {
         System.out.println("helloWorld");
         System.out.println("-----");
         System.out.println("2222");
-        System.out.println("+++");
+        System.out.println("-----");
     }
 }
